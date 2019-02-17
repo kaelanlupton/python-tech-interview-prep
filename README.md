@@ -14,10 +14,13 @@ https://www.youtube.com/watch?v=qc1owf2-220  <br /><br />
 Data Structures and Algorithms in Python, Udacity <br />
 https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513 <br /><br />
 
+Programming Interview Tips, Philip Guo <br />
 http://www.pgbovine.net/programming-interview-tips.htm <br /><br />
 
+LeetCode, Ratul Saha <br />
 https://github.com/RatulSaha/leetcode <br /><br />
 
+Google Python Style Guide, Google <br />
 https://google.github.io/styleguide/pyguide.html <br /><br />
 
 Coding Interview University, John Washam <br />
