@@ -19,12 +19,13 @@ https://github.com/RatulSaha/leetcode <br /><br />
 
 https://google.github.io/styleguide/pyguide.html <br /><br />
 
+Coding Interview University, John Washam <br />
 https://github.com/jwasham/coding-interview-university <br /><br />
 
 Programming Foundations: Algorithms, Joe Marini <br />
 https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Algorithms/718636-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3apython+algorithms%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2<br /><br />
 
-Preparing for a Python Interview: 10 Things You Should Know, Corey Schafer
+Preparing for a Python Interview: 10 Things You Should Know, Corey Schafer <br />
 https://www.youtube.com/watch?v=DEwgZNC-KyE <br /><br />
 
 A tour of the top 5 sorting algorithms with Python code, George Seif <br />https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889<br />
