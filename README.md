@@ -1,7 +1,7 @@
 # Preparation for Technical Interviews in Python
 Documentation of technical interview prep in Python and various algorithms that could be tested on.
 
-Updating this bad boy as the week goes along in preparation for an intereview of my own, figured I'd share the wealth. References curated from across the web, code examples are either from a source listed below, or my own work.
+Updating this bad boy as the week goes along in preparation for an intereview of my own, figured I'd share the work. References curated from across the web, code examples are either from a source listed below, or my own work.
 
 Resources:
 
