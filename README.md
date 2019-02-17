@@ -8,9 +8,10 @@ Resources:
 Preparing for Programming interview with Python, Ratul Saha <br />
 https://medium.com/@ratulsaha/preparing-for-programming-interview-as-a-phd-student-with-python-5f8af8b40d5f <br /><br />
 
-
+Hangouts On Air: Google Recruiters Share Technical Interview Tips, Google Students <br />
 https://www.youtube.com/watch?v=qc1owf2-220  <br /><br />
 
+Data Structures and Algorithms in Python, Udacity <br />
 https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513 <br /><br />
 
 http://www.pgbovine.net/programming-interview-tips.htm <br /><br />
